@@ -1,10 +1,11 @@
-### Hi there 👋
+
+Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduado em Gestão de TI, amante de boas práticas de desenvolvimento. Trabalha com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Gosto de aplicar a regra do bom escoteiro nos códigos: "Sempre deixar o local mais limpo do que quando você o encontrou".
 
 <!--
 **iurygdeoliveira/iurygdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
