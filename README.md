@@ -1,4 +1,5 @@
 
+Cristão, marido, pai, professor no IFTO, dev remoto e apartidário. 
 Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduado em Gestão de TI, amante de boas práticas de desenvolvimento. Trabalha com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Gosto de aplicar a regra do bom escoteiro nos códigos: "Sempre deixar o local mais limpo do que quando você o encontrou".
 
 Minhas redes:
