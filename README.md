@@ -1,6 +1,10 @@
 
 Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduado em Gestão de TI, amante de boas práticas de desenvolvimento. Trabalha com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Gosto de aplicar a regra do bom escoteiro nos códigos: "Sempre deixar o local mais limpo do que quando você o encontrou".
 
+Minhas redes:
+:twitter: https://twitter.com/IuryProf
+:linkedin: https://www.linkedin.com/in/iurygdeoliveira/
+
 <!--
 **iurygdeoliveira/iurygdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
