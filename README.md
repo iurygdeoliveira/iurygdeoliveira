@@ -1,6 +1,8 @@
+### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Cristão, marido, pai, professor no IFTO, dev remoto e apartidário. 
-Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduado em Gestão de TI, amante de boas práticas de desenvolvimento. Trabalha com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Gosto de aplicar a regra do bom escoteiro nos códigos: "Sempre deixar o local mais limpo do que quando você o encontrou".
+Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, tenho bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MongoDB e MYSQL. Seguidor de Cristo, Marido da Lívia, Pai da Talita e do João
+
+
 
 Minhas redes:
 <ul>
