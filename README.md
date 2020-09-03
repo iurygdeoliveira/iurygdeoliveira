@@ -4,9 +4,11 @@ Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Toca
 
 <p>
   <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
+  <img alt="Stars" src="https://img.shields.io/github/stars/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/> 
+  <img alt="Forks" src="https://img.shields.io/github/forks/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/></p>
 </p>
 
-Minhas redes:
+### Minhas redes:
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87162006-b6c05980-c29b-11ea-8dfe-fba74549729b.png" width="18" alt="Youtube">
@@ -23,17 +25,4 @@ Minhas redes:
 </ul>
 
 ![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira)
-<!--
-**iurygdeoliveira/iurygdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
