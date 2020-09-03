@@ -4,8 +4,6 @@ Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Toca
 
 <p>
   <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
-  <img alt="Stars" src="https://img.shields.io/github/stars/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/> 
-  <img alt="Forks" src="https://img.shields.io/github/forks/iurygdeoliveira/iurygdeoliveira?style=flat-square&labelColor=343b41"/></p>
 </p>
 
 ### Minhas redes:
@@ -24,5 +22,6 @@ Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Toca
   </li>
 </ul>
 
-![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira) 
