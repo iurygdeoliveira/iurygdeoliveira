@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, tenho bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, Mestrando em Ciência da Computação na UFBA. Sei trabalhar com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, Python, MongoDB e SQL. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena
+Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, tenho bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, Mestrando em Ciência da Computação na UFBA. Sei trabalhar com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, Python, MongoDB e SQL. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena. Meu currículo lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
 
 <p>
   <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
