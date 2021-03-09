@@ -22,5 +22,5 @@ Meu nome é Iury Gomes de Oliveira, e sou Professor no Instituto Federal do Toca
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=html&langs_count=20&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    ![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    ![](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira) 
 
