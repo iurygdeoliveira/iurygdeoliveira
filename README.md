@@ -22,5 +22,5 @@ Meu nome é Iury Gomes de Oliveira, professor no Instituto Federal do Tocantins 
   </li>
 </ul>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact&theme=groovy) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact&theme=great-gatsby) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
 
