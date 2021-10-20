@@ -12,10 +12,8 @@ Meu nome é Iury Gomes de Oliveira, professor no Instituto Federal do Tocantins 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-Docker
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-. 
 
 ## Minhas redes:
 <ul>
@@ -33,6 +31,7 @@ Docker
   </li>
 </ul>
 
+## Minhas estatísticas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
 
 ## Visualizações
