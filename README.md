@@ -3,8 +3,7 @@
 Meu nome é Iury Gomes de Oliveira, professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, Mestrando em Ciência da Computação na UFBA na linha de Ciência de dados. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena. Meu currículo lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
 
 ### Linguagens:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  JAVASCRIPT, jQuery, PHP, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  MongoDB e SQL. 
+HTML5, CCS3, JAVASCRIPT, jQuery, PHP, Python  MongoDB e SQL. 
 
 <p>
   <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
