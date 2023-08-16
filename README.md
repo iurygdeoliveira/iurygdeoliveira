@@ -1,6 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Iury Gomes de Oliveira, professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, Mestrando em Ciência da Computação na UFBA na linha de Ciência de dados. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena. Meu currículo lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
+Meu nome é Arthur Coelho Saraiva, aluno do Instituto Federal do Tocantins - IFTO. Tenho 16 anos e curso o 2°ano do ensino médio no Campus Araguaína, integrado ao curso de informática. Já fiz um curso de "Operador de computador" no Senai. ATualmente além do estudo aqui, faço curso de Inglês na escola "Guilherme Dourado".
 
 ## Linguagens e Tecnologias:
 
