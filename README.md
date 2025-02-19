@@ -8,7 +8,7 @@ Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ci
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-11.x-red" />
+<img src="https://img.shields.io/badge/Laravel-11+-FF2D20?style=for-the-badge&logo=laravel" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux" />
 <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker" />
