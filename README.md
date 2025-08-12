@@ -34,3 +34,8 @@ Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ci
 
 ## Minhas estatísticas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
+
+## 🚀 Meus Projetos Open Source
+
+- [**LabSIS kit v4**](https://github.com/iurygdeoliveira/labSIS-Kit-V4) :  Fornece um starter kit para os alunos participantes do projeto LABSIS desenvolverem seus projetos     
+
