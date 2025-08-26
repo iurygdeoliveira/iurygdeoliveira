@@ -37,5 +37,5 @@ Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ci
 
 ## 🚀 Meus Projetos Open Source
 
-- [**LabSIS SaaS KIT V4**]([https://github.com/iurygdeoliveira/labSIS-Kit-V4](https://github.com/iurygdeoliveira/labSIS-SaaS-KIT-V4)) :  Fornece um starter kit para os alunos participantes do projeto LABSIS desenvolverem seus projetos     
+- [**LabSIS SaaS KIT V4**](https://github.com/iurygdeoliveira/labSIS-SaaS-KIT-V4) :  Fornece um starter kit para os alunos participantes do projeto LABSIS desenvolverem seus projetos     
 
