@@ -1,6 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋 !!!
 
-Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ciência da Computação pela UFBA na linha de Ciência de Dados. Marido da Lívia, Pai da Talita e da Helena, eu me esforço para aprender e conhecer sobre Deus todos os dias. Além disso, utilizo meus conhecimentos para contribuir com a prosperidade de outros. Meu lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
+Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ciência da Computação pela UFBA. Marido da Lívia, Pai da Talita e da Helena. Gosto de utilizar laravel, filament e aplicações baseadas na TALL STACK. Meu lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
 
 ## Linguagens e Tecnologias:
 
