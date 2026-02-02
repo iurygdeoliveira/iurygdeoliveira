@@ -16,12 +16,8 @@ Meu nome é Iury Gomes de Oliveira, professor no IFTO, programador, Mestre em Ci
 <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-## Minhas redes:
+## Meu Linkedin:
 <ul>
-  <li>
-    <img src="https://user-images.githubusercontent.com/30157522/87162006-b6c05980-c29b-11ea-8dfe-fba74549729b.png" width="18" alt="Youtube">
-    <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber" target="_blank" title="My Youtube">Youtube</a>
-  </li>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
     <a href="https://www.linkedin.com/in/iurygdeoliveira/" target="_blank" title="My LinkedIn">LinkedIn</a>
